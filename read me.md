@@ -1,0 +1,6 @@
+command vocal de base 
+que fais tu
+affiche les logs
+et le reste est afficher dans que fait tu
+le mute de discord en disant silense marche que si crtl shit alt m est bind sur mute toggle
+le text to voice de windows dois etre installer en francais
